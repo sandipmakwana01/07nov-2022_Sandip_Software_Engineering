@@ -25,16 +25,32 @@
 
   ->(1) Application software 
   ->(2) System software
-  ->(3) Driver software
-  ->(4) Middleware
-  ->(5) Programming software
+  ->(3) Programming software
   
   (1) Application software : 
   
                             - The most common type of software, application software is a computer software package that 
                               performs a specific function for a user, or in some cases, for another application.
-                            - 
-     
+                            - An application can be self-contained, or it can be a group of programs that run the application 
+                              for the user.
+                            - Examples of Modern Applications include office suites, graphics software, databases and database 
+                              management programs, web browsers, word processors, software development tools, image editors and 
+                              communication platforms.
+ 
+ (2) System software :
+                           - These software programs are designed to run a computer's application programs and hardware.
+                           - System software coordinates the activities and functions of the hardware and software.
+                           - It controls the operations of the computer hardware and provides an environment or platform for 
+                             all the other types of software to work in.
+                           - The OS is the best example of system software; it manages all the other computer programs.
+                           - Other examples of system software include the firmware, computer language translators and system 
+                             utilities....
+                             
+(3) Programming software : 
+                           - Computer programmers use programming software to write code. Programming software and programming 
+                             tools enable developers to develop, write, test and debug other software programs.
+                           - Examples of programming software include assemblers, compilers, debuggers and interpreters.
+                           
   
   
   
