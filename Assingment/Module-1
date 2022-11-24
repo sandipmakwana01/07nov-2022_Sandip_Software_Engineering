@@ -1,1 +1,46 @@
-Hello
+1. What is software ?
+
+- Software is a collection of information , instruction and data.
+
+- Software is a set of instructions, data or programs used to operate computers and execute specific tasks. 
+  It is the opposite of hardware, which describes the physical aspects of a computer. 
+  
+- Software is a generic term used to refer to applications, scripts and programs that run on a device.
+ 
+- It can be thought of as the variable part of a computer, while hardware is the invariable part.
+
+- The two main categories of software are application software and system software. 
+
+- An application is software that fulfills a specific need or performs tasks. 
+
+- System software is designed to run a computer's hardware and provides a platform for applications to run on top of.
+
+- Other types of software include programming software, which provides the programming tools software developers need; 
+  middleware, which sits between system software and applications; and driver software, which operates computer devices 
+  and peripherals.
+
+- Early software was written for specific computers and sold with the hardware it ran on. 
+
+- In the 1980s, software began to be sold on floppy disks, and later on CDs and DVDs. 
+
+- Today, most software is purchased and directly downloaded over the internet. 
+
+- Software can be found on vendor websites or application service provider websites.
+
+2. What is software engineering? 
+
+- Software engineering is a concept in and of itself, but to better understand it, you need to know what each part of 
+  the term means before you can fully understand how they operate together. 
+  
+- It can be difficult to understand, even though it does seem straightforward. That is because the pieces are more 
+  complicated than many believe - and working with software engineering for an application is difficult and time-consuming.
+
+   ->Software engineering has two parts: software and engineering.
+
+      (1) Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement.
+
+      (2) Engineering is the development of products using best practices, principles, and methods.
+      
+      
+3. Explain types of software ?
+
