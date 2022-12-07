@@ -1,3 +1,5 @@
+/* WAP Print name & Rollno.
+*/
 #include<stdio.h>
 
 void main()
