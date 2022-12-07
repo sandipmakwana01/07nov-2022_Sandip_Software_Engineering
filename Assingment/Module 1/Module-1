@@ -177,4 +177,14 @@
 
 5. What is Flow chart? Create a flowchart to make addition of two numbers. 
 
+- A flowchart is a diagram that shows an overview of a program . 
+  Flowcharts normally use standard symbols to represent the different types of instructions . 
+  These symbols are used to construct the flowchart and show the step-by-step solution to the problem. 
+  Flowcharts are sometimes known as flow diagrams.
+
 6. What is Use case Diagram? Create a use-case on bill payment on paytm. 
+
+- Use-case diagrams describe the high-level functions and scope of a system. 
+  These diagrams also identify the interactions between the system and its actors. 
+  The use cases and actors in use-case diagrams describe what the system does and how the actors use it, 
+  but not how the system operates internally.
