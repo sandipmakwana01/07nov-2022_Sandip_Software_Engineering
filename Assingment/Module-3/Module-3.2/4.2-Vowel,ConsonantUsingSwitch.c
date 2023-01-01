@@ -1,1 +1,0 @@
-/* WAP to show Vowel or Consonant using switch case */
