@@ -29,7 +29,7 @@
 	}
 	else
 	{
-		printf(" \n Please enter a valid input......");
+		printf(" \n Please enter a valid input...");
 	}
 	return 0;
   }	
