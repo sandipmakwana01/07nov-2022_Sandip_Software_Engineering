@@ -1,0 +1,1 @@
+/* WAP to print table up to given numbers */
