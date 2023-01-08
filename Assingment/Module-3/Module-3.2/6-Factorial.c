@@ -1,0 +1,3 @@
+/*
+WAP to print factorial of given number
+*/
