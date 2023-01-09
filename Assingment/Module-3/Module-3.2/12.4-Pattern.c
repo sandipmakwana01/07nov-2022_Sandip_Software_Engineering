@@ -18,7 +18,7 @@ int main()
 
     }
 
-    for(a = i; a >= 1; a--)
+    for(a = i-1; a >= 1; a--)
     {
         for(b = 1; b <= a; b++)
         {
