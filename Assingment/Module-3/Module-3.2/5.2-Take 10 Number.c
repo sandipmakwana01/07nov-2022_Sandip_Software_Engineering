@@ -1,3 +1,10 @@
+/*
+WAP to take 10 no. Input from user and find out … 
+ How many Even numbers are there 
+ How many odd numbers are there 
+ Sum of even numbers 
+ Sum of odd numbers 
+ */
 #include <stdio.h>
 void main() 
 {
