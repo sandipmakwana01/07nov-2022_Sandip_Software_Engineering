@@ -1,0 +1,9 @@
+Different between OOP and Pop
+
+---->The main purpose of OOP is on Data Security, whereas the main focus of POP is on how to get the task done. 
+OOP is Object-Oriented Programming, and POP is Procedure-Oriented Programming.
+
+
+---->OOP has three accessing modes: “Public”, “Private”, and “Protected,” while POP has no specific accessing modes.
+POP doesn’t support inheritance, while OOP supports inheritance that allows using attributes and functions of other classes by inheriting.
+In OOP, the virtual function supports polymorphism, whereas there is no concept of virtual function in POP. 
