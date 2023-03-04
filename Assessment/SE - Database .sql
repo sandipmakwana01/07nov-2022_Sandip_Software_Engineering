@@ -53,21 +53,14 @@ ANS)
 SELECT Account_Holder_id FROM Account 
    WHERE City IN (SELECT City FROM Account GROUP BY CITY HAVING COUNT(*) > 1)
 
-
-3)Write a query to fetch account number and account holder name, whose 
-	accounts were created after 15th of any month
-ANS)
-	
-
-
-4) Write a query to display the city name and count the branches in that city. 
+3) Write a query to display the city name and count the branches in that city. 
    Give the count of branches an alias name of Count_Branch.
 
 Ans)
 
 select Branch_city,count(*) as Count_Branch from Bank group by Branch_city;
 
-5)  Write a query to display the account holder’s id, account holder’s name, 
+4)  Write a query to display the account holder’s id, account holder’s name, 
     branch id, and loan amount for people who have taken loans. (NOTE : use 
     sql join concept to solve the query)
 
