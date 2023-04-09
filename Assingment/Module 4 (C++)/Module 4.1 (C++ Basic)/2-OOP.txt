@@ -1,0 +1,29 @@
+OOP ->  OOP means object oriented programming ,oop is a programming paradigm based on the concept of the object  
+        in which data and code contains.The data is in the form of field and the code is in the form of procedure.
+
+There are mainly 4 primary concept of OOP -> 1-Abstraction,2-Encaplusation,3-Inhertance,4-Polymorphism
+
+(1)Abstraction. Using simple things to represent complexity. We all know how to turn the TV on, but we don’t 
+                need to know how it works in order to enjoy it. In Java, abstraction means simple things like objects,
+                classes and variables represent more complex underlying code and data.
+
+(2)Encapsulation. The practice of keeping fields within a class private, then providing access to those fields 
+via public methods. Encapsulation is a protective barrier that keeps the data and code safe within the class itself.
+
+(3)Inheritance. A special feature of Object-Oriented Programming in Java, Inheritance lets programmers create new classes
+that share some of the attributes of existing classes. 
+
+(4)Polymorphism. Allows programmers to use the same word in Java to mean different things in different contexts.
+One form of polymorphism is method overloading. That’s when the code itself implies different meanings. The other form is method overriding.
+
+
+
+
+
+
+
+
+
+
+
+                         

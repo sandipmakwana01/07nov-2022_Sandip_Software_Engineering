@@ -1,0 +1,190 @@
+1. What is software ?
+
+- Software is a collection of information , instruction and data.
+
+- Software is a set of instructions, data or programs used to operate computers and execute specific tasks. 
+  It is the opposite of hardware, which describes the physical aspects of a computer. 
+  
+- Software, is a collection of computer programs and related data that provide
+  the instructions for telling a computer what to do and how to do it.
+  
+
+ * What is software engineering? 
+
+- Software engineering is a concept in and of itself, but to better understand it, you need to know what each part of 
+  the term means before you can fully understand how they operate together. 
+  
+- It can be difficult to understand, even though it does seem straightforward. That is because the pieces are more 
+  complicated than many believe - and working with software engineering for an application is difficult and time-consuming.
+
+   ->Software engineering has two parts: software and engineering.
+
+      (1) Software is a collection of codes, documents, and triggers that does a specific job and fills a specific requirement.
+
+      (2) Engineering is the development of products using best practices, principles, and methods.
+      
+      
+2. Explain types of software ?
+
+  ->(1) Application software 
+  ->(2) System software
+  ->(3) Programming software
+  
+  (1) Application software : 
+  
+                            - The most common type of software, application software is a computer software package that 
+                              performs a specific function for a user, or in some cases, for another application.
+                            - An application can be self-contained, or it can be a group of programs that run the application 
+                              for the user.
+                            - Examples of Modern Applications include office suites, graphics software, databases and database 
+                              management programs, web browsers, word processors, software development tools, image editors and 
+                              communication platforms.
+ 
+ (2) System software :
+                           - These software programs are designed to run a computer's application programs and hardware.
+                           - System software coordinates the activities and functions of the hardware and software.
+                           - It controls the operations of the computer hardware and provides an environment or platform for 
+                             all the other types of software to work in.
+                           - The OS is the best example of system software; it manages all the other computer programs.
+                           - Other examples of system software include the firmware, computer language translators and system 
+                             utilities....
+                             
+(3) Programming software : 
+                           - Computer programmers use programming software to write code. Programming software and programming 
+                             tools enable developers to develop, write, test and debug other software programs.
+                           - Examples of programming software include assemblers, compilers, debuggers and interpreters.
+                           
+ 
+3.What is SDLC? Explain each phase of SDLC 
+
+- SDLC is a structure imposed on the development of a software product that defines the process for planning, implementation, testing, 
+  documentation, deployment, and ongoing maintenance and support. 
+  
+- There are a number of different development models.
+
+- A Software Development Life Cycle is essentially a series of steps, or phases, that provide a model for the development and lifecycle 
+  management of an application or piece of software.
+
+- The methodology within the SDLC process can vary across industries and organizations, but standards such as ISO/IEC 12207 represent 
+  processes that establish a lifecycle for software, and provide a mode for the development, acquisition, and configuration of software systems.
+  
+ * SDLC Phases 
+ 
+  1. Requirement Gathering
+  2. Analysis Phase
+  3. Designing Phase
+  4. Implementation Phase
+  5. Testing Phase
+  6. Maintenance Phase
+  
+   (1) Requirement Gathering :
+                               - Features
+                               - Usage scenarios
+                               - Although requirements may be documented in written form, they may be incomplete, unambiguous, or even incorrect.
+                               - Requirements will Change!
+                               - Inadequately captured or expressed in the first place
+                               - User and business needs change during the project
+                               - Validation is needed throughout the software lifecycle, not only when the ―final system is delivered.
+                               - Build constant feedback into the project plan
+                               - Plan for change
+                               - Early prototyping can help clarify the requirements
+                               - Functional and Non-Functional
+                               - Requirements definitions usually consist of natural language, supplemented by diagrams and tables.
+
+
+   (2) Analysis Phase :
+
+                               - The analysis phase defines the requirements of the system, independent of how these Requirements will be accomplished.
+                               - This phase defines the problem that the customer is trying to solve.
+                               - The deliverable result at the end of this phase is a requirement document.
+                               - Ideally, this document states in a clear and precise fashion what is to be built.
+                               - This analysis represents the ―what” phase.
+                               - The requirement documentaries to capture the requirements from the customer's perspective by defining goals.
+                               - This phase starts with the requirement document delivered by the requirement phase and mapsthe requirements into architecture.
+                               - The architecture defines the components, their interfaces and behaviors.
+                               - The deliverable design document is the architecture.
+                               - This phase represents the ―how” phase.
+                               - Details on computer programming languages and environments, machines, packages, application architecture, distributed
+                                 architecture layering, memory size, platform, algorithms, data structures, global type definitions, interfaces, and many 
+                                 other engineering details are established.
+                               - The design may include the usage of existing components.
+
+                               
+     (3) Designing Phase :                       
+                             
+                               - Design Architecture Document
+                               - Implementation Plan
+                               - Critical Priority Analysis
+                               - Performance Analysis
+                               - Test Plan
+                               - The Design team can now expand upon the information established in the requirement Document.
+                               - The requirement document must guide this decision process.
+                               - Analyzing the trade-offs of necessary complexity allows for many things to remain simple which, in turn, will eventually 
+                                 lead to a higher quality product. The architecture team also converts the typical scenarios into a test plan.
+
+      
+     (4) Implementation Phase :
+     
+                               - In the implementation phase, the team builds the components either from scratch or by composition.
+                               - Given the architecture document from the design phase and the requirement document from the analysis phase, the team 
+                                 should build exactly what has been requested, though there isstill room for innovation and flexibility.
+                               - For example, a component may be narrowly designed for this particular system, or the Component may be made more general 
+                                 to satisfy a reusability guideline.
+                               - The implementation phase deals with issues of quality, performance, baselines, libraries, and debugging.
+                               
+                               The end deliverable is the product itself. There are already many established techniques associated with implementation.
+         
+      (5) Testing Phase :                       
+    
+                              - Simply stated, quality is very important. Many companies have not learned that quality is important and deliver more claimed 
+                                functionality but at a lower quality level.
+                              - It is much easier to explain to a customer why there is a missing feature than to explain to a customer why the product lacks quality.
+                              - A customer satisfied with the quality of a product will remain loyal and wait for new Functionality in the next version.
+                              - Quality is a distinguishing attribute of a system indicating the degree of excellence.
+                              - Regression Testing
+                              - Internal Testing
+                              - Unit Testing
+                              - Application Testing
+                              - Stress Testing
+                              - The testing phase is a separate phase which is performed by a different team after the implementation is completed.
+                              - There is merit in this approach; it is hard to see one‘s own mistakes, and a fresh eye can discover obvious errors much faster
+                                than the person who has read and re-read the material many times.
+                              - Unfortunately, delegating (alternate) testing to another team leads to as lack (dull) attitude regarding quality by the implementation team.
+                              - If the teams are to be known as craftsmen, then the teams should be responsible for establishing high quality across all phases.
+                              - An attitude change must take place to guarantee quality. Regardless if testing is done after the-fact or continuously, testing is usually 
+                                based on a regression technique split into severalmajor focuses, namely internal, unit, application, and stress.
+                              
+      (6) Maintenance Phase :                    
+                              
+                              - Software maintenance is one of the activities in software engineering, and is the process of enhancing and optimizing deployed software 
+                                (software release), as well as fixing defects.
+                              - Software maintenance is also one of the phases in the System Development Life Cycle (SDLC), as it applies to software development. 
+                                The maintenance phase is the phase which comes after deployment of the software into the field.
+                              - The developing organization or team will have some mechanism to document andtrack Defects and deficiencies.
+                              - configuration and version management
+                              - reengineering (redesigning and refactoring)
+                              - updating all analysis, design and user documentation
+                              - Repeatable, automated tests enable evolution and refactoring
+                              - Software just like most other products is typically released with a known set of defects and deficiencies.
+
+
+4. What is DFD? Create a DFD diagram on Flipkart.
+
+- DFD " Data Flow Diagrams "
+
+- Graphical representation of flow of data inside application.
+- Used for visualization and data processing.
+
+5. What is Flow chart? Create a flowchart to make addition of two numbers. 
+
+- A flowchart is a diagram that shows an overview of a program . 
+  Flowcharts normally use standard symbols to represent the different types of instructions . 
+  These symbols are used to construct the flowchart and show the step-by-step solution to the problem. 
+  Flowcharts are sometimes known as flow diagrams.
+
+6. What is Use case Diagram? Create a use-case on bill payment on paytm. 
+
+- Use-case diagrams describe the high-level functions and scope of a system. 
+  These diagrams also identify the interactions between the system and its actors. 
+  The use cases and actors in use-case diagrams describe what the system does and how the actors use it, 
+  but not how the system operates internally.
