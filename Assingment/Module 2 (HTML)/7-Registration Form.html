@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <style>
+        form{
+            border: 2px solid black;
+            background-color: greenyellow;
+            width: 450px;
+        }
+        body{
+            background-color: rgb(231, 97, 30);
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <form action="https://careercenter.tops-int.com/dashboard" method="get">
+            <h1 style="color: rgb(231, 97, 30);">Registration Form</h1>
+
+            <label for="Name">Name: &nbsp;</label>
+            <input type="text" name="Name" id=""><br><br>
+
+            <label for="Pass">Password:&nbsp;</label>
+            <input  type="password" name="Password" id="" required pattern="[A-Z,a-z,0-9,@]{3,15}"><br><br>
+
+            <label for="email">E-mail id: &nbsp;</label>
+            <input type="email" name="email" id="" required><br><br>
+
+            Gender:
+            <input type="radio" name="Gender">Male
+            <input type="radio" name="Gender"> Female <br><br>
+
+            <label for="Contact#:">Contact#:&nbsp;</label>
+            <input type="tel" name="" id="" required pattern="[0-9]{10,11}"><br><br>
+
+            <h1 style="color: rgb(231, 97, 30);" >Educational Qualification</h1>
+
+            <label for="Degree:">Degree:&nbsp;</label>
+            <select name="Degree" id="">
+                <option value="select">--Select Group--</option>
+                <option value="1">BCA</option>
+                <option value="2">MCA</option>
+                <option value="3">B.COM</option>
+                <option value="4">M.COM</option>
+                <option value="5">BBA</option>
+                <option value="6">MBA</option>
+            </select>
+            <br><br>
+            <label for="Engineering:">Engineering:&nbsp;</label>
+            <select name="Engineering" id="">
+                <option value="select">--Select Group--</option>
+                <option value="1">A</option>
+                <option value="2">B</option>
+            </select><br><br>
+            
+            <label for="Hobbies">Hobbies:&nbsp;</label>
+            <input type="checkbox" name="">Playing chess
+            <input type="checkbox" name="">Reading Books
+
+            <h1 style="color: rgb(231, 97, 30);" >Address</h1>
+
+            <textarea name="" id="" cols="30" rows="5"></textarea><br><br>
+
+            Attch Resume 
+            <input type="file">
+            
+            <br><br>
+            <input type="submit">
+            <br><br>
+        </form>
+
+    </center>
+</body>
+</html>
